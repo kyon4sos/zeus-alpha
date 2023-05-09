@@ -4,7 +4,7 @@
  zeus
 </h1>
  <h4 align="center">A SSH Client</h4>
- <h4 align="center">Tauri + React + Typescript</h4>
+ <h4 align="center">Tauri + Vue + Typescript</h4>
 <p align="center">
  <img src="https://img.shields.io/badge/platform-mac%20%7C%20windows%20-blue" alt="platform">
  <img src="https://img.shields.io/badge/build-success-blue.svg" alt="build">
